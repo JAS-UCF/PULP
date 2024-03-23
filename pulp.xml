@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/shitta/projects/PULP/pulp.kicad_sch</source>
+    <date>Sat 23 Mar 2024 12:33:28 PM EDT</date>
+    <tool>Eeschema 7.0.8-7.0.8~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pulp.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>untitled.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C15">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>c929c3e9-4d3e-43c4-b183-fbb96b5bd2f5</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>62655abe-2802-40bc-8163-35174fcc50fe</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>e649c56c-902f-404f-b7f4-2800717d5238</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>f19de466-807e-4de6-9bdc-cc8f55b613be</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>03fc8dd6-6727-4412-a134-69a77d11dedd</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>9ca3b30c-9bfe-4475-884d-07461761fa20</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>27ef4267-ca1b-4308-aa78-1c8afd6919b1</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>f6381883-5f14-40a0-b2d2-022cf84b7c35</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>4bd745a5-8741-4aec-91bf-84d042f4d997</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>4d7e489d-2e46-4748-b679-41b86963b4e3</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>315e6688-3fc0-4373-b15d-60db30c48b3c</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>58e4538f-1090-43d6-b14b-52c4edbdf0c2</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>af804d49-c65a-4f20-bed5-b4a0dfb247a9</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>9b3d76c2-0f78-4829-9e16-208a55151c5f</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>09ae786c-0e3e-41ab-9c3c-2cf9216f1b50</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>dde73286-8c95-4ca7-a61d-86258c83fe15</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>27</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>14989563-3919-4f10-8f93-5acdf06fad6f</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>27</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>ab254a4f-c09e-4b3c-a984-244eb3d06d21</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>27</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>6f6eb30e-b240-4d3f-ab44-822806f12caa</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>27</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>36ba0be4-417a-4876-995f-92e8992dc942</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>27</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>01993750-ccb1-4da2-be7d-a12a7b5b7b72</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>27</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>a2a0f20d-7290-4966-9823-c90be251fc71</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>27</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>aabf8898-b4a8-4300-b6ee-b320125e6fbd</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>RP2040</value>
+      <footprint>Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</footprint>
+      <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
+      <libsource lib="MCU_RaspberryPi" part="RP2040" description="A microcontroller by Raspberry Pi"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="A microcontroller by Raspberry Pi"/>
+      <property name="ki_keywords" value="RP2040 ARM Cortex-M0+ USB"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>b32bf681-5e64-4ec7-9a1c-bd2ae7d28068</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>ASE-12.0MHz</value>
+      <footprint>Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm</footprint>
+      <datasheet>http://www.abracon.com/Oscillators/ASV.pdf</datasheet>
+      <libsource lib="Oscillator" part="ASE-xxxMHz" description="3.3V CMOS SMD Crystal Clock Oscillator, Abracon"/>
+      <property name="Sheetname" value="RP2040.kicad_sch"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="3.3V CMOS SMD Crystal Clock Oscillator, Abracon"/>
+      <property name="ki_keywords" value="3.3V CMOS SMD Crystal Clock Oscillator"/>
+      <sheetpath names="/RP2040.kicad_sch/" tstamps="/456d15c9-50b8-45f7-b390-0e0c8de71050/"/>
+      <tstamps>9191efaa-e4fd-4d55-990f-8aa4da4a7433</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi" part="RP2040">
+      <description>A microcontroller by Raspberry Pi</description>
+      <docs>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*7x7mm?P0.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="passive"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="input"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="passive"/>
+        <pin num="22" name="IOVDD" type="passive"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="input"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="passive"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29_ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="passive"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_IN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="passive"/>
+        <pin num="50" name="DVDD" type="passive"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="output"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Oscillator" part="ASE-xxxMHz">
+      <description>3.3V CMOS SMD Crystal Clock Oscillator, Abracon</description>
+      <docs>http://www.abracon.com/Oscillators/ASV.pdf</docs>
+      <footprints>
+        <fp>Oscillator*SMD*Abracon*ASE*3.2x2.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">ASE-xxxMHz</field>
+        <field name="Footprint">Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm</field>
+        <field name="Datasheet">http://www.abracon.com/Oscillators/ASV.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="Vdd" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi">
+      <uri>/usr/share/kicad/symbols//MCU_RaspberryPi.kicad_sym</uri>
+    </library>
+    <library logical="Oscillator">
+      <uri>/usr/share/kicad/symbols//Oscillator.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/RP2040.kicad_sch/1V1">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U2" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
+      <node ref="U2" pin="50" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="2" name="/RP2040.kicad_sch/3V3">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="33" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="42" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U2" pin="44" pinfunction="VREG_IN" pintype="power_in"/>
+      <node ref="U2" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U2" pin="49" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="X2" pin="4" pinfunction="Vdd" pintype="power_in"/>
+    </net>
+    <net code="3" name="/RP2040.kicad_sch/GPIO 0">
+      <node ref="U2" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/RP2040.kicad_sch/GPIO 1">
+      <node ref="U2" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/RP2040.kicad_sch/GPIO 2">
+      <node ref="U2" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/RP2040.kicad_sch/GPIO 3">
+      <node ref="U2" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/RP2040.kicad_sch/GPIO 4">
+      <node ref="U2" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/RP2040.kicad_sch/GPIO 5">
+      <node ref="U2" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/RP2040.kicad_sch/I2C 0 SCL">
+      <node ref="U2" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/RP2040.kicad_sch/I2C 0 SDA">
+      <node ref="U2" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/RP2040.kicad_sch/I2C 1 SCL">
+      <node ref="U2" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/RP2040.kicad_sch/I2C 1 SDA">
+      <node ref="U2" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/RP2040.kicad_sch/QSPI_0">
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="/RP2040.kicad_sch/QSPI_1">
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/RP2040.kicad_sch/QSPI_2">
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="/RP2040.kicad_sch/QSPI_3">
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/RP2040.kicad_sch/QSPI_SCLK">
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="/RP2040.kicad_sch/QSPI_SS">
+      <node ref="U2" pin="56" pinfunction="QSPI_SS" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/RP2040.kicad_sch/SWCLK">
+      <node ref="U2" pin="24" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="20" name="/RP2040.kicad_sch/SWD">
+      <node ref="U2" pin="25" pinfunction="SWD" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/RP2040.kicad_sch/USB_D+">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U2" pin="46" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/RP2040.kicad_sch/USB_D-">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U2" pin="47" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/RP2040.kicad_sch/~{RST}">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="26" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="24" name="GND">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="TESTEN" pintype="input"/>
+      <node ref="U2" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="X2" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="25" name="Net-(U2-QSPI_SCLK)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U2" pin="52" pinfunction="QSPI_SCLK" pintype="output"/>
+    </net>
+    <net code="26" name="Net-(U2-QSPI_SD0)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U2" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(U2-QSPI_SD1)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(U2-QSPI_SD2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(U2-QSPI_SD3)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U2" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(U2-XIN)">
+      <node ref="U2" pin="20" pinfunction="XIN" pintype="input"/>
+      <node ref="X2" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(X2-EN)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="X2" pin="1" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="32" name="unconnected-(U2-GPIO6-Pad8)">
+      <node ref="U2" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="unconnected-(U2-GPIO7-Pad9)">
+      <node ref="U2" pin="9" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="unconnected-(U2-GPIO8-Pad11)">
+      <node ref="U2" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(U2-GPIO9-Pad12)">
+      <node ref="U2" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="unconnected-(U2-GPIO10-Pad13)">
+      <node ref="U2" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U2-GPIO11-Pad14)">
+      <node ref="U2" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U2-GPIO12-Pad15)">
+      <node ref="U2" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U2-GPIO13-Pad16)">
+      <node ref="U2" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="unconnected-(U2-GPIO14-Pad17)">
+      <node ref="U2" pin="17" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="unconnected-(U2-GPIO15-Pad18)">
+      <node ref="U2" pin="18" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="unconnected-(U2-GPIO16-Pad27)">
+      <node ref="U2" pin="27" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(U2-GPIO17-Pad28)">
+      <node ref="U2" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(U2-GPIO20-Pad31)">
+      <node ref="U2" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="unconnected-(U2-GPIO23-Pad35)">
+      <node ref="U2" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U2-GPIO24-Pad36)">
+      <node ref="U2" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(U2-GPIO25-Pad37)">
+      <node ref="U2" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="unconnected-(U2-GPIO26_ADC0-Pad38)">
+      <node ref="U2" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U2-GPIO27_ADC1-Pad39)">
+      <node ref="U2" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="unconnected-(U2-GPIO28_ADC2-Pad40)">
+      <node ref="U2" pin="40" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U2-GPIO29_ADC3-Pad41)">
+      <node ref="U2" pin="41" pinfunction="GPIO29_ADC3" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U2-XOUT-Pad21)">
+      <node ref="U2" pin="21" pinfunction="XOUT" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

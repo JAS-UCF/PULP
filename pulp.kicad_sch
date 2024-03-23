@@ -106,6 +106,14 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 3ae53d69-7ca0-4a6a-a71c-61e2ada65fde)
     )
+    (pin "GPIO14_PWM_RIGHT" bidirectional (at 96.52 62.23 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid c7d9697c-ffc7-4ecd-b1dc-f8d2504ffe75)
+    )
+    (pin "GPIO12_PWM_LEFT" bidirectional (at 96.52 64.77 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 9c9a16ba-eede-49a8-93fb-5f3f345332a0)
+    )
     (instances
       (project "pulp"
         (path "/1ed16f22-2fbd-4fb8-a593-4becb783d131" (page "2"))

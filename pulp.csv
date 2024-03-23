@@ -1,0 +1,6 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28","14","1uF","",""
+"2","R10, R11","2","10K","",""
+"3","R12, R13, R14, R15, R16, R17, R18","7","27","",""
+"4","U2","1","RP2040","Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm",""
+"5","X2","1","ASE-12.0MHz","Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm",""
