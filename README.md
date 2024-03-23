@@ -19,7 +19,3 @@ implement a basic RP2040 board
 
 Join the JAS Discord : <https://discord.gg/rzfwvgsg3Z>
 Ask @ Peter about the project!
-
-### CC
-
-PULP by Jet & Aeronautics Society is licensed under CC BY-NC-ND 4.0
