@@ -10,7 +10,7 @@ implement a basic RP2040 board
 - compass module (TBD)
 - GPS module (TBD)
 - PINOUT for I2C Bus 0 & 1
-- PINOUT for PWM out Motor_Left & Motor_Right
+- PINOUT for PWM out Motor_Left & Motor_Right (2 Pins)
 - PINOUT for 3S Battery Power (External)
 - PINOUT for 6 GPIO pins
 - USB-C for programming and power
