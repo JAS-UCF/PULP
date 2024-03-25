@@ -496,11 +496,15 @@
     ],
     [
       "456d15c9-50b8-45f7-b390-0e0c8de71050",
-      "RP2040.kicad_sch"
+      "RP2040"
     ],
     [
       "4eab07ec-7844-4449-b2ab-0d0a31c6a762",
       "QMC5883L"
+    ],
+    [
+      "c14c6624-7d94-4580-8b57-0bedeaf69395",
+      "MAX_8C GNSS"
     ]
   ],
   "text_variables": {}
