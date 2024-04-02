@@ -7640,7 +7640,7 @@
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R17"
-			(at 0 -1.05 270)
+			(at 0 -1.05 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fb5c584e-152e-4505-a51c-ae87d2edc2a7")
@@ -7652,7 +7652,7 @@
 			)
 		)
 		(property "Value" "27"
-			(at 0 1.05 270)
+			(at 0 1.05 -90)
 			(layer "F.Fab")
 			(uuid "07348c2e-5e52-4449-a514-a04ef84eeba6")
 			(effects
@@ -7784,7 +7784,7 @@
 			(uuid "1b7d829b-9c20-43d0-bb47-b4595eb93690")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.680001 270)
+			(at 0 -0.680001 -90)
 			(layer "F.Fab")
 			(uuid "91f50c1f-7f6c-4af0-9972-452e53d62595")
 			(effects
@@ -19799,7 +19799,7 @@
 	)
 	(segment
 		(start 68.015 72.54)
-		(end 66.425 70.95)
+		(end 67.5 72.025)
 		(width 0.18)
 		(layer "F.Cu")
 		(net 2)
@@ -20022,6 +20022,14 @@
 		(uuid "5729f4e6-5873-45e5-9706-8e5cea7982d1")
 	)
 	(segment
+		(start 67.5 72)
+		(end 67.475 72)
+		(width 0.18)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "5af5f5df-6fc1-4539-a4de-790cefdb0acd")
+	)
+	(segment
 		(start 68.05 73.74)
 		(end 68.05 72.575)
 		(width 0.18)
@@ -20076,6 +20084,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "71fefd07-88a3-468f-838b-8f1d4e34a34a")
+	)
+	(segment
+		(start 67.475 72)
+		(end 66.425 70.95)
+		(width 0.18)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "72b9904d-4df2-43b3-8286-56fb7659549a")
 	)
 	(segment
 		(start 97 62.2)
@@ -20348,6 +20364,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "cf07081e-74aa-4fd0-8464-10e7332e27ba")
+	)
+	(segment
+		(start 67.5 72.025)
+		(end 67.5 72)
+		(width 0.18)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "d0ae7c34-d689-43da-b4c3-68e1aff2763a")
 	)
 	(segment
 		(start 96 67.401544)
@@ -20756,6 +20780,14 @@
 		(free yes)
 		(net 2)
 		(uuid "bbe4d886-29a1-4c9c-adb2-0230daafb740")
+	)
+	(via
+		(at 67.5 72)
+		(size 0.8)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 2)
+		(uuid "bed558eb-f209-40b3-93b2-79c23ed8b07e")
 	)
 	(via
 		(at 45 67.5)
